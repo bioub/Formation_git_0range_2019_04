@@ -1,4 +1,4 @@
-# Formation git Orange Avril 2019
+# Formation git Orange
 
 Bienvenue dans cette formation git
 
