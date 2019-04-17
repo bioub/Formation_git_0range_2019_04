@@ -13,3 +13,7 @@ Commande : `git rebase -i`
 ## Les branches
 
 Permettent d'avoir une copie du code
+
+## Remotes
+
+Permettent de synchroniser plusieurs dépôts
