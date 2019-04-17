@@ -1,3 +1,6 @@
 [submodule "exercices/introduction"]
 	path = exercices/introduction
 	url = https://gitlab.com/exercices-git/introduction
+[submodule "exercices/rebase-interactif"]
+	path = exercices/rebase-interactif
+	url = https://gitlab.com/exercices-git/rebase-interactif
