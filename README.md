@@ -16,4 +16,4 @@ Permettent d'avoir une copie du code
 
 ## Remotes
 
-Permettent de synchroniser plusieurs dépôts
+Permettent de synchroniser plusieurs dépôts, c'est le même principe que les branches locales.
